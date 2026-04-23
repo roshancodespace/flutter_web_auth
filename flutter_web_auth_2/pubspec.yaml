@@ -27,11 +27,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_web_auth_2:
+  flutter_inappwebview:
     git:
-      url: https://github.com/aayush2622/flutter_web_auth
-      path: flutter_web_auth_2
-      ref: master
+      url: https://github.com/roshancodespace/flutter_inappwebview.git
+      path: flutter_inappwebview
   flutter_web_auth_2_platform_interface: ^5.0.0
   flutter_web_plugins:
     sdk: flutter
